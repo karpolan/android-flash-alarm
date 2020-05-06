@@ -13,4 +13,4 @@ All important source code in this folder https://github.com/karpolan/android-fla
 Plays sound form "raw" resources (.vaw, .mp3, and so on). It supports sound looping, just set the `repeatAfterEnd` param true.
 
 ### FlashController class
-Allows to control the Flash light of the main camera.
+Allows to control the Flash light of the main camera on Android device
