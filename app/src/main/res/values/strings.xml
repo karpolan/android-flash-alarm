@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flash Alarm</string>
+    <string name="msg_no_flash">Your device doesn\'t support flash light!</string>
+    <string name="btn_ok">OK</string>
+</resources>
